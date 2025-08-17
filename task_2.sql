@@ -1,4 +1,4 @@
---Write a script that creates all the tables below in alx_book_store in your MySQL server
+-- Write a script that creates all the tables below in alx_book_store in your MySQL server
 -- and establishes the necessary relationships between them.
 -- Ensure that the database is created if it does not already exist.
 -- Create the database

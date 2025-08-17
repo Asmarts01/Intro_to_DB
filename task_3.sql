@@ -1,2 +1,2 @@
---lets list all the tables created
+-- lets list all the tables created
 SHOW TABLES;
