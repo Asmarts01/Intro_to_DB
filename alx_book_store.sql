@@ -19,7 +19,7 @@ CREATE TABLE Books (
 );
 
 -- Customers Table
-CREATE TABLE Customers (
+CREATE TABLE Customer (
     customer_id INT AUTO_INCREMENT PRIMARY KEY,
     customer_name VARCHAR(215),
     email VARCHAR(215),
